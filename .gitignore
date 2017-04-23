@@ -37,9 +37,9 @@ jspm_packages
 .node_repl_history
 
 # Angular 2 Ingore
-typings
-app/**/*.js
-app/**/*.map
+src/typings
+src/app/**/*.js
+src/app/**/*.map
 node_modules
 jspm_packages
 bower_components
